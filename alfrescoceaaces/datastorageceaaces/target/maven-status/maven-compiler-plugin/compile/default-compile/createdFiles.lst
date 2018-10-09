@@ -1,0 +1,10 @@
+ec/gob/ceaaces/datastore/factory/impl/DataStoreFactoryImpl.class
+ec/gob/ceaaces/datastore/impl/AlfrescoDataStore.class
+ec/gob/ceaaces/datastore/commons/DataStoreParameter.class
+ec/gob/ceaaces/datastore/exception/DataStoreException.class
+ec/gob/ceaaces/datastore/exception/DataStoreAlreadyExistsException.class
+ec/gob/ceaaces/datastore/impl/FileSystemDataStore.class
+ec/gob/ceaaces/datastore/DataStore.class
+ec/gob/ceaaces/datastore/impl/DSpaceDataStore.class
+ec/gob/ceaaces/datastore/factory/DataStoreFactory.class
+ec/gob/ceaaces/datastore/commons/enumeration/EnumDataStoreType.class

@@ -1,0 +1,17 @@
+/home/bmoreano/NetBeansProjects/alfrescoceaaces/datastorageceaaces/src/main/java/ec/gob/ceaaces/datastore/commons/enumeration/EnumDataStoreType.java
+/home/bmoreano/NetBeansProjects/alfrescoceaaces/datastorageceaaces/src/main/java/ec/gob/ceaaces/datastore/package-info.java
+/home/bmoreano/NetBeansProjects/alfrescoceaaces/datastorageceaaces/src/main/java/ec/gob/ceaaces/datastore/impl/AlfrescoDataStore.java
+/home/bmoreano/NetBeansProjects/alfrescoceaaces/datastorageceaaces/src/main/java/ec/gob/ceaaces/datastore/factory/impl/package-info.java
+/home/bmoreano/NetBeansProjects/alfrescoceaaces/datastorageceaaces/src/main/java/ec/gob/ceaaces/datastore/impl/package-info.java
+/home/bmoreano/NetBeansProjects/alfrescoceaaces/datastorageceaaces/src/main/java/ec/gob/ceaaces/datastore/factory/DataStoreFactory.java
+/home/bmoreano/NetBeansProjects/alfrescoceaaces/datastorageceaaces/src/main/java/ec/gob/ceaaces/datastore/exception/DataStoreException.java
+/home/bmoreano/NetBeansProjects/alfrescoceaaces/datastorageceaaces/src/main/java/ec/gob/ceaaces/datastore/exception/DataStoreAlreadyExistsException.java
+/home/bmoreano/NetBeansProjects/alfrescoceaaces/datastorageceaaces/src/main/java/ec/gob/ceaaces/datastore/impl/DSpaceDataStore.java
+/home/bmoreano/NetBeansProjects/alfrescoceaaces/datastorageceaaces/src/main/java/ec/gob/ceaaces/datastore/commons/package-info.java
+/home/bmoreano/NetBeansProjects/alfrescoceaaces/datastorageceaaces/src/main/java/ec/gob/ceaaces/datastore/commons/enumeration/package-info.java
+/home/bmoreano/NetBeansProjects/alfrescoceaaces/datastorageceaaces/src/main/java/ec/gob/ceaaces/datastore/impl/FileSystemDataStore.java
+/home/bmoreano/NetBeansProjects/alfrescoceaaces/datastorageceaaces/src/main/java/ec/gob/ceaaces/datastore/commons/DataStoreParameter.java
+/home/bmoreano/NetBeansProjects/alfrescoceaaces/datastorageceaaces/src/main/java/ec/gob/ceaaces/datastore/factory/impl/DataStoreFactoryImpl.java
+/home/bmoreano/NetBeansProjects/alfrescoceaaces/datastorageceaaces/src/main/java/ec/gob/ceaaces/datastore/exception/package-info.java
+/home/bmoreano/NetBeansProjects/alfrescoceaaces/datastorageceaaces/src/main/java/ec/gob/ceaaces/datastore/DataStore.java
+/home/bmoreano/NetBeansProjects/alfrescoceaaces/datastorageceaaces/src/main/java/ec/gob/ceaaces/datastore/factory/package-info.java
